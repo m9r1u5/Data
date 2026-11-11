@@ -15,7 +15,7 @@ import java.net.URL
 
 /** Checks the latest GitHub release and installs its APK. */
 object Updater {
-    const val REPO = "m9r1u5/data"
+    const val REPO = "m9r1u5/Data"
 
     data class Release(val versionCode: Int, val tag: String, val apkUrl: String)
 

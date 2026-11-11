@@ -65,7 +65,7 @@ You need a signing key so that every new build installs as an **update** over th
 
 ## Updating
 
-Settings → **Check for update**. It checks the latest release in `m9r1u5/data`, downloads the newer APK and opens the installer.
+Settings → **Check for update**. It checks the latest release in `m9r1u5/Data`, downloads the newer APK and opens the installer.
 The repo must be **public** for this to work (GitHub hides releases of private repos from apps).
 
 ## Good to know
